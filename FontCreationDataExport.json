@@ -1,0 +1,58 @@
+{
+    "glyphOrder": [
+        ".notdef",
+        "A",
+        "B",
+        "C"
+    ],
+    "advanceWidths": {
+        ".notdef": [
+            600,
+            50
+        ],
+        "A": [
+            600,
+            50
+        ],
+        "B": [
+            600,
+            50
+        ],
+        "C": [
+            600,
+            50
+        ]
+    },
+    "glyphs": {
+        ".notdef": {
+            "description": "Placeholder for glyph .notdef",
+            "type": "rectangle"
+        },
+        "A": {
+            "description": "Placeholder for glyph A",
+            "type": "triangle"
+        },
+        "B": {
+            "description": "Placeholder for glyph B",
+            "type": "triangle"
+        },
+        "C": {
+            "description": "Placeholder for glyph C",
+            "type": "triangle"
+        }
+    },
+    "cmap": {
+        "Unicode": {
+            "65": "A",
+            "66": "B",
+            "67": "C"
+        }
+    },
+    "fontMetadata": {
+        "familyName": "MinimalTestFont",
+        "styleName": "Regular",
+        "uniqueFontIdentifier": "MinimalTestFont-Regular",
+        "fullName": "Minimal Test Font Regular",
+        "version": "Version 1.0"
+    }
+}

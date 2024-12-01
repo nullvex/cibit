@@ -1,0 +1,27 @@
+Letter,Symbol,Unicode Value,Strokes,Phonetic Sound,Programmatic Principle,English Phonetics
+A,/\,0xe000,2,Represents the letter 'A' in the simplified alphabet.,Start or upward motion,uh
+B,ƃ,0xe001,3,Represents the letter 'B' in the simplified alphabet.,Looping or iterative process,boo
+C,(,0xe002,1,Represents the letter 'C' in the simplified alphabet.,Open grouping or inclusion,koh
+D,⊂,0xe003,1,Represents the letter 'D' in the simplified alphabet.,Subset or containment,soo
+E,∈,0xe004,2,Represents the letter 'E' in the simplified alphabet.,Membership or belonging,in
+F,┐,0xe005,2,Represents the letter 'F' in the simplified alphabet.,Sharp direction or logic junction,ree
+G,C-,0xe006,3,Represents the letter 'G' in the simplified alphabet.,Circular reference or process,kay
+H,╎╎,0xe007,2,Represents the letter 'H' in the simplified alphabet.,Parallelism or duality,pi
+I,|,0xe008,1,Represents the letter 'I' in the simplified alphabet.,Singular entity or identity,eye
+J,⅂,0xe009,2,Represents the letter 'J' in the simplified alphabet.,Hook or connection,ell
+K,|<,0xe00a,3,Represents the letter 'K' in the simplified alphabet.,Branching or diagonal interaction,ka
+L,┘,0xe00b,2,Represents the letter 'L' in the simplified alphabet.,Right-angled turn or boundary,dah
+M,//,0xe00c,3,Represents the letter 'M' in the simplified alphabet.,Repetition or parallel structure,shoo
+N,/\,0xe00d,2,Represents the letter 'N' in the simplified alphabet.,Crossing paths or upward direction,uh
+O,○,0xe00e,1,Represents the letter 'O' in the simplified alphabet.,Completeness or wholeness,oh
+P,ƿ,0xe00f,2,Represents the letter 'P' in the simplified alphabet.,Hooked process or partial inclusion,wih
+Q,ʘ,0xe010,2,Represents the letter 'Q' in the simplified alphabet.,Enclosed membership,thoh
+R,O/,0xe011,3,Represents the letter 'R' in the simplified alphabet.,Circular process with output,aw
+S,~,0xe012,3,Represents the letter 'S' in the simplified alphabet.,Flowing motion or wave,tee
+T,┬,0xe013,2,Represents the letter 'T' in the simplified alphabet.,Intersection or alignment,tee
+U,⊔,0xe014,2,Represents the letter 'U' in the simplified alphabet.,Boxed containment,too
+V,∨,0xe015,2,Represents the letter 'V' in the simplified alphabet.,Decision-making or choice,vur
+W,//,0xe016,4,Represents the letter 'W' in the simplified alphabet.,Dual repetition or waves,shoo
+X,×,0xe017,2,Represents the letter 'X' in the simplified alphabet.,Crossing interaction or conflict,ex
+Y,λ,0xe018,3,Represents the letter 'Y' in the simplified alphabet.,Branching decision or lambda,lam
+Z,⟿,0xe019,3,Represents the letter 'Z' in the simplified alphabet.,Zigzag flow or pathway,zoh
