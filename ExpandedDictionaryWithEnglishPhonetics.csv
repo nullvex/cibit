@@ -1,0 +1,29 @@
+Word,Symbols,Literal Meaning,Programmatic Function,Phonetics,English Phonetics
+IfLoop,/\ + ƃ,Conditional upward loop,A loop that runs if a condition is true.,/ʌ/ /buː/,uh plus boo
+LoopElse,ƃ + ~,Fallback loop,A loop that runs when conditions fail.,/buː/ /tiː/,boo plus tee
+InSubset,∈ + ⊂,Membership in a subset,Checks if an item belongs to a subset.,/ɪn/ /suː/,in plus soo
+NotParallel,~ + ╎╎,Non-parallel relationship,Verifies non-parallel conditions.,/tiː/ /paɪ/,tee plus pi
+ClassBox,C- + ⊔,Enclosed class structure,A class encapsulating data in a box-like format.,/keɪ/ /tuː/,kay plus too
+PipeFunction,| + λ,Piped lambda function,A lambda function processed through logical steps.,/aɪ/ /læm/,eye plus lam
+DoubleSlash,// + //,Reinforced repetition,Iterates twice over a set of items.,/ʃuː/ /ʃuː/,shoo plus shoo
+CircleSlash,○ + O/,Circular exclusion,Represents a set minus excluded elements.,/oʊ/ /ɔː/,oh plus aw
+CrossLoop,× + ƃ,Intersecting loop,Runs loops for intersecting data sets.,/eks/ /buː/,ex plus boo
+ArrowWave,⟿ + ~,Flowing directional wave,Executes a flowing data pipeline.,/zoʊ/ /tiː/,zoh plus tee
+BoxLambda,⊔ + λ,Boxed lambda,Encapsulates a lambda function in a box structure.,/tuː/ /læm/,too plus lam
+HookSubset,⅂ + ⊂,Hook into subset,Accesses a subset using a hooked query.,/el/ /suː/,ell plus soo
+UpwardSlash,/\ + //,Ascending repetition,Repeats a process with an upward trend.,/ʌ/ /ʃuː/,uh plus shoo
+CircleStar,○ + ʘ,Circular focal point,Highlights the central node of a circular structure.,/oʊ/ /θəʊ/,oh plus thoh
+IfAnd,/\ + ╎╎,Conditional and parallel,A condition checking parallel entities.,/ʌ/ /paɪ/,uh plus pi
+ClassReturn,C- + ┘,Class returning values,A class method that returns computed values.,/keɪ/ /dɒ/,kay plus dah
+FunctionIn,λ + ∈,Function membership check,A function checking if a value is in a set.,/læm/ /ɪn/,lam plus in
+ElseOr,~ + ×,Alternative logical OR,Represents an alternative OR operation.,/tiː/ /eks/,tee plus ex
+NotAnd,~ + ╎╎,Negated AND operation,Represents a negated logical AND.,/tiː/ /paɪ/,tee plus pi
+ClassLoop,C- + ƃ,Class with iterative behavior,A class running iterations as methods.,/keɪ/ /buː/,kay plus boo
+ArrowBox,⟿ + ⊔,Directional boxed structure,Represents boxed data flowing in a direction.,/zoʊ/ /tuː/,zoh plus too
+SubsetWave,⊂ + ~,Subset flowing motion,Processes subsets in a wave-like manner.,/suː/ /tiː/,soo plus tee
+ParallelLambda,╎╎ + λ,Parallel lambda functions,Executes lambda functions concurrently.,/paɪ/ /læm/,pi plus lam
+DoubleCross,× + ×,Double interaction,Represents overlapping or doubled operations.,/eks/ /eks/,ex plus ex
+SlashClass,// + C-,Repeated class operations,Iterates a class operation multiple times.,/ʃuː/ /keɪ/,shoo plus kay
+CircleBranch,○ + |<,Circular branching,Represents circular data with branching logic.,/oʊ/ /kæ/,oh plus ka
+WaveArrow,~ + ⟿,Flowing directional arrow,Indicates flowing data pipelines.,/tiː/ /zoʊ/,tee plus zoh
+ReturnPipe,┘ + |,Pipe return value,Pipes return values to subsequent steps.,/dɒ/ /aɪ/,dah plus eye
